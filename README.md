@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Mehrnaz 👋
 
-<!--
-**Meh-hn/meh-hn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Biomedical engineer focused on **medical imaging, generative models, and machine learning systems**. Interested in **AI evaluation, MLOps, and efficient deployment of medical AI models**.
 
-Here are some ideas to get you started:
+* 🎓 Completing an MSc in ICT for Internet and Multimedia at the University of Padua
+* 🔬 Erasmus Research Trainee at the Kofler Lab. in the Hertie Institute for AI in Brain Health, University of Tübingen
+* 🧠 MSc thesis: *Generative approaches for multi-sensor federated classification of dermoscopy images*
+* 📚 MSc in Biomedical Engineering — Bioelectrics, Amirkabir University of Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Research Interests
+
+* Medical image analysis
+* Generative models & image-to-image translation
+* Domain adaptation & federated learning
+* AI evaluation and validation
+* MLOps & ML infrastructure
+
+### 🚀 Featured Projects
+
+* 🧠 **Inpainting Evaluation** — Evaluation of MRI inpainting quality using image-level, feature-level, distributional, and downstream segmentation metrics.
+* 🩺 **Dermoscopy Style Translation** — Generative domain adaptation for multi-sensor dermoscopy classification.
+* ☁️ **ML & Medical Imaging Projects** — Reproducible experiments in deep learning, computer vision, and medical image analysis.
+
+### 🛠️ Tools & Tech
+
+* **Languages:** Python, SQL, MATLAB
+* **ML/DL:** PyTorch, scikit-learn, OpenCV, MONAI
+* **Generative AI:** GANs, diffusion models, image-to-image translation
+* **MLOps & Infrastructure:** Docker, Kubernetes, Git, Linux, HPC
+* **APIs & Data:** FastAPI, REST APIs, SQL
+
+### 📫 Reach me
+
+* [LinkedIn](https://www.linkedin.com/in/mehrnaz-hn/)
